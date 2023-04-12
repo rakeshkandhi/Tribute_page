@@ -12,13 +12,15 @@ nav {
   padding: 20px;
 }
 ul {
+  width: 100%;
+  background-color: lightblue;
+  padding: 20px;
   list-style-type: none;
   display: flex;
   justify-content: space-evenly;
 }
 images {
-  display: flex;
-  justify-content: center;
+  display: grid;
 }
 img {
   width: 200px;
