@@ -25,13 +25,14 @@ header {
 ul {
   list-style-type: none;
   background-color: #3e3d3d;
+  padding: 10px;
   display: flex;
   justify-content: space-evenly;
 }
 h1 {
   margin: 0;
 }
-#images {
+#images ,img{
   display: block;
   margin: auto;
   width: 50%;
